@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\igraNaKarte\igraNaKarte\bin\Debug\igraNaKarte.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\igraNaKarte\igraNaKarte\bin\Debug\igraNaKarte.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\igraNaKarte\igraNaKarte\bin\Debug\igraNaKarte.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\igraNaKarte\igraNaKarte\obj\Debug\igraNaKarte.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\igraNaKarte\igraNaKarte\obj\Debug\igraNaKarte.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\igraNaKarte\igraNaKarte\obj\Debug\igraNaKarte.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\igraNaKarte\igraNaKarte\obj\Debug\igraNaKarte.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\igraNaKarte\igraNaKarte\obj\Debug\igraNaKarte.pdb
